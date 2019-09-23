@@ -1,4 +1,7 @@
-Instructions:
+# Coding Assessment #3
+
+
+## Instructions:
 
 - Logon to your bit bucket stash, you will find the repository &quot;coding-assessment-3&quot;
 - Create a branch with your LLID
@@ -6,7 +9,7 @@ Instructions:
 - Once you finish coding, commit your work to your respective branch
 - VERY IMPORTANT: DO NOT COMMIT TO &quot;master&quot; BRANCH
 
-Requirement #1:
+## Requirement #1:
 
 In the file &quot;dbscript.sql&quot; write the commands to do the following:
 
@@ -32,7 +35,7 @@ In the file &quot;dbscript.sql&quot; write the commands to do the following:
 | Vijay | vijay@qwert.com | 9731424600 | Bangalore |
 | Mahesh | mahesh@qwert.com | 9731424500 | Bangalore |
 
-Requirement #2:
+## Requirement #2:
 
 - Create the entity class com.ps.entity.Customer to represent the CUSTOMERS table with appropriate entity mappings. Use Lombok for default constructor, getters, setters and toString.
 - Create an interface com.ps.repository.CustomerRepository that inherits from CrudRepository
